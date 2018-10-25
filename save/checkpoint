@@ -1,0 +1,6 @@
+model_checkpoint_path: "tf_binpacking.ckpt"
+all_model_checkpoint_paths: "tmp.ckpt-1200"
+all_model_checkpoint_paths: "tmp.ckpt-2400"
+all_model_checkpoint_paths: "tmp.ckpt-3600"
+all_model_checkpoint_paths: "tmp.ckpt-4800"
+all_model_checkpoint_paths: "tf_binpacking.ckpt"

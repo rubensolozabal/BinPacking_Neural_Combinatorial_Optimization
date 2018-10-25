@@ -1,0 +1,5 @@
+tensorflow==1.8.0
+matplotlib
+pymzn
+jinja2
+tqdm
