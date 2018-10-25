@@ -1,7 +1,7 @@
 # BinPacking_Neural_Combinational_Optimization
 Bin Packing Problem using Neural Combinational Optimization.
 
-This Tensorflow model tackles Bin-Packing Problem using Reinforcement Learning. It trains multi-stacked LSTM cells to perform an RNN agent to embed information from the environment and variable size sequences batched form the whole combinational input space.
+This Tensorflow model tackles Bin-Packing Problem using Reinforcement Learning. It trains multi-stacked LSTM cells to perform an RNN agent able to embed information from the environment and variable size sequences batched form the whole combinational input space.
 
 This AI is performed to behave like a first-fit algorithm.
 https://en.wikipedia.org/wiki/Bin_packing_problem#First-fit_algorithm
