@@ -1,5 +1,5 @@
-# BinPacking_Neural_Combinational_Optimization
-Bin Packing Problem using Neural Combinational Optimization.
+# BinPacking_Neural_Combinatorial_Optimization
+Bin Packing Problem using Neural Combinatorial Optimization.
 
 This Tensorflow model tackles Bin-Packing Problem using Reinforcement Learning. It trains multi-stacked LSTM cells to perform an RNN agent able to embed information from the environment and variable size sequences batched form the whole combinational input space.
 
@@ -41,7 +41,7 @@ To visualize training variables on Tensorboard:
     tensorboard --logdir=summary/repo
 ```
 
-To activate Tensorflow debugger in Tensorboard, uncomment TensorBoard Debug Wrapper code. Execute Tensorboard afer running the model.
+To activate Tensorflow debugger in Tensorboard, uncomment TensorBoard Debug Wrapper code. Execute Tensorboard after running the model.
 ```
     tensorboard --logdir=summary/repo --debugger_port 6064
 ```
