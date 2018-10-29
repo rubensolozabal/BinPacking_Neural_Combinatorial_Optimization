@@ -6,7 +6,9 @@ This Tensorflow model tackles Bin-Packing Problem using Reinforcement Learning. 
 This AI is performed to behave like a first-fit algorithm.
 https://en.wikipedia.org/wiki/Bin_packing_problem#First-fit_algorithm
 
-![Proper description what the image is about](img/placement_.png)
+<p align="center">
+  <img  src="img/placement_.png"
+</p>
 
 My special greetings to Michel Deudon (@mdeudon) & Pierre Cournut (@pcournut) for their inspirational TSP implementation.
 https://github.com/MichelDeudon/neural-combinatorial-optimization-rl-tensorflow
@@ -52,9 +54,9 @@ Solutions are tested againt Gecode open-source constraint solver.
 
 **Performance obtained is over 80%.**
 
-# Autor
+# Author
 
-Ruben Solozabal, PhD student at the University of the Basque Country [UPV-EHU] Bilbao
+Ruben Solozabal, PhD student at the University of the Basque Country [UPV/EHU] Bilbao
 
 Date: October 2018
 
